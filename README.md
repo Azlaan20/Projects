@@ -1,6 +1,6 @@
 # Quantium Data Analytics Virtual Experience Program
 
-![Quantium Logo](https://images.app.goo.gl/xzpBfsimq7ayAUku9)
+![Quantium Logo](https://drive.google.com/file/d/157P9QUqYkVGYO-cR32DajeqG1Sn0_F1i/view?usp=sharing)
 
 Welcome to the GitHub repository for my Quantium Data Analytics Virtual Experience Program! In this virtual internship, I had the incredible opportunity to work with Quantium, a leading data analytics firm. Over the course of two months, from July 2023 to August 2023, I gained valuable insights and hands-on experience in the field of data analytics.
 
